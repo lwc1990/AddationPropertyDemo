@@ -13,6 +13,6 @@
     NSLog(@"%@",[CategroryPropertyManager manager].assistPropertyMap);
 }
 -(void)showSomething{
-    NSLog(@"%@",@"TestClassA");
+    NSLog(@"TestClassA");
 }
 @end

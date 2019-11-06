@@ -16,7 +16,7 @@
 -(NSString *)classDesc{
     return [[CategroryPropertyManager manager] propertyValueForName:@"classDesc"];
 }
--(void)doSomething{
-    NSLog(@"%@",@"TestClassA+AddPropertys");
+-(void)showSomething{
+    NSLog(@"TestClassA+AddPropertys");
 }
 @end

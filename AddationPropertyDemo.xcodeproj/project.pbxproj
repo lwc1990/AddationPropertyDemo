@@ -151,10 +151,10 @@
 			isa = PBXGroup;
 			children = (
 				239388B32372972500ACFFCE /* CategroryPropertyManager.h */,
-				239388B42372972500ACFFCE /* TestClassA+AddNewPoprety.h */,
-				239388B52372972500ACFFCE /* TestClassA+AddPropertys.h */,
 				239388B62372972500ACFFCE /* CategroryPropertyManager.m */,
+				239388B42372972500ACFFCE /* TestClassA+AddNewPoprety.h */,
 				239388B72372972500ACFFCE /* TestClassA+AddNewPoprety.m */,
+				239388B52372972500ACFFCE /* TestClassA+AddPropertys.h */,
 				239388B82372972500ACFFCE /* TestClassA+AddPropertys.m */,
 			);
 			path = category;

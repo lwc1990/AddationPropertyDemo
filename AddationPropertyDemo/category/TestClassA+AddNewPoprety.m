@@ -9,5 +9,7 @@
 #import "TestClassA+AddNewPoprety.h"
 
 @implementation TestClassA (AddNewPoprety)
-
+-(void)showSomething{
+    NSLog(@"TestClassA+AddNewProperty");
+}
 @end
