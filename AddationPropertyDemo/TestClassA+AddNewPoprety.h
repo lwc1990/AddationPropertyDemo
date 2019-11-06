@@ -12,6 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface TestClassA (AddNewPoprety)
 @property (nonatomic,copy) NSString *classDesc;
+
 @end
 
 NS_ASSUME_NONNULL_END

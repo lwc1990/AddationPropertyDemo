@@ -12,4 +12,7 @@
 -(void)showCategoryPropertyKeyAndValue{
     NSLog(@"%@",[CategroryPropertyManager manager].assistPropertyMap);
 }
+-(void)doSomething{
+    NSLog(@"%@",@"TestClassA");
+}
 @end
