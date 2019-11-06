@@ -13,6 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface TestClassA : NSObject
 @property (nonatomic,strong) NSString *className;
 -(void)showCategoryPropertyKeyAndValue;
+-(void)showSomething;
 @end
 
 NS_ASSUME_NONNULL_END
